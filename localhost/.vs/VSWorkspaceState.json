@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\modules",
+    "\\modules\\application\\controllers",
+    "\\modules\\placepractice\\views",
+    "\\modules\\placepractice\\views\\default",
+    "\\modules\\student_lists\\controllers",
+    "\\modules\\student_practice",
+    "\\modules\\student_practice\\controllers",
+    "\\modules\\student_practice\\views\\default"
+  ],
+  "SelectedNode": "\\models\\User.php",
+  "PreviewInSolutionExplorer": false
+}
